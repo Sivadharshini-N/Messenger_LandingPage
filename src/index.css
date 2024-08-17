@@ -9,7 +9,7 @@ nav,body
 }
 .spinning-img
 {
-    animation: spin 55s linear infinite;
+    animation: spin 5s linear infinite;
 }
 @keyframes spin 
 {
