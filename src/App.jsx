@@ -2,6 +2,7 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Register from './components/Register'
 import Highlight from './components/Highlight'
+import Mission from './components/Mission'
 
 function App() {
 
@@ -33,7 +34,8 @@ function App() {
             </div>
           </div>
 
-        </div>
+        </div><br /><br />
+        <Mission/>
       </div>
     </div>
 

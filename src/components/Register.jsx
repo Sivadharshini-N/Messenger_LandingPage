@@ -15,7 +15,7 @@ const Register = () => {
                     </div>
                 </div>
                 <div className="container border bg-white shadow p-3 col-md-6 rounded">
-                    <div className="row ">
+                    <div className="row">
                         <div className="col-8">
                             <p>Register using your email address</p>
                             <h6>company@company.com</h6>
