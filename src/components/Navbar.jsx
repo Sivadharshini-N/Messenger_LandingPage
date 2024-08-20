@@ -27,12 +27,12 @@ const Navbar = () => {
                                 <a className="nav-link text-dark" href="#">About Us</a>
                             </li>
                         </ul>
-                       
+
                     </div>
                     <div>
                         <button className="btn">Login</button>
                     </div>
-                    
+
                 </div>
             </nav>
         </div>

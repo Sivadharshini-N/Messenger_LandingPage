@@ -46,7 +46,7 @@ function App() {
 
             </div>  <br />
             <div className="col-md-6 col-sm-12 rounded bg-white">
-              
+
               <PtagContainer content={"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequit."}>
               </PtagContainer>
 
@@ -55,12 +55,12 @@ function App() {
         </div>
 
 
-       
+
       </div><br /><br /><br />
       <div className="container-fluid bg-white">
         <br />
-            <Footer></Footer>
-        </div>
+        <Footer></Footer>
+      </div>
     </div>
 
 
