@@ -40,8 +40,8 @@ function App() {
         </div><br /><br />
         <Mission /><br />
         <div className="container-fluid" >
-          <div className="row d-flex  justify-content-center align-items-center py-4">
-            <div className="col-md-6 col-sm-12 ">
+          <div className="row g-3 d-flex  justify-content-center align-items-center py-4">
+            <div className="col-md-6 col-sm-12 p-4 ">
               <H3Container content={"Collect your components under variant sections for developers to access them during  development."}></H3Container>
 
             </div>  <br />
