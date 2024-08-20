@@ -21,3 +21,24 @@ nav,body
     100% { transform: rotate(360deg); }
     
 }
+.h-100
+{
+    height: 500pxpx;
+}
+.text-gray a
+{
+    color:gray;
+    font-weight: 400 ;
+}
+.footer a
+{
+    font-size: 15px;
+}
+.rounded
+{
+    border-radius: 10px !important ;
+}
+.ph3 
+{
+    height: 17rem;
+}

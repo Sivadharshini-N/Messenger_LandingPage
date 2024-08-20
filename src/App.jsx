@@ -3,6 +3,9 @@ import Navbar from './components/Navbar'
 import Register from './components/Register'
 import Highlight from './components/Highlight'
 import Mission from './components/Mission'
+import H3Container from './components/H3Container'
+import PtagContainer from './components/PtagContainer'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -35,8 +38,28 @@ function App() {
           </div>
 
         </div><br /><br />
-        <Mission/>
-      </div>
+        <Mission /><br />
+        <div className="container-fluid" >
+          <div className="row d-flex  justify-content-center align-items-center py-4">
+            <div className="col-md-6 col-sm-12  h-100  ">
+              <H3Container content={"Collect your components under variant sections for developers to access them during  development."}></H3Container>
+
+            </div>{" "}
+            <div className="col-md-6 col-sm-12 rounded bg-white">
+              <PtagContainer content={"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequit."}>
+              </PtagContainer>
+
+            </div>
+          </div>
+        </div>
+
+
+       
+      </div><br /><br /><br />
+      <div className="container-fluid bg-white">
+        <br />
+            <Footer></Footer>
+        </div>
     </div>
 
 
