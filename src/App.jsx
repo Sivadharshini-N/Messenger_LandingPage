@@ -41,11 +41,12 @@ function App() {
         <Mission /><br />
         <div className="container-fluid" >
           <div className="row d-flex  justify-content-center align-items-center py-4">
-            <div className="col-md-6 col-sm-12  h-100  ">
+            <div className="col-md-6 col-sm-12 ">
               <H3Container content={"Collect your components under variant sections for developers to access them during  development."}></H3Container>
 
-            </div>{" "}
+            </div>  <br />
             <div className="col-md-6 col-sm-12 rounded bg-white">
+              
               <PtagContainer content={"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequit."}>
               </PtagContainer>
 
